@@ -1,6 +1,5 @@
 package edu.dosw.parcial.entity;
 
-import edu.eci.dosw.TechCup.model.*;
 import jakarta.persistence.*;
 import jakarta.validation.constraints.NotBlank;
 
