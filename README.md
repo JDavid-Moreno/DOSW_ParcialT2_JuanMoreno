@@ -9,3 +9,8 @@ segundo parcial de ciclos Juan Moreno y Karol Rodriguez
 ---
 
 ## Postgres
+![DataBase](DOSW-ParcialT2/src/main/resources/docs/uml/DataBase.png)
+
+---
+
+## Diagrama de Clases
