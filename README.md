@@ -14,3 +14,6 @@ segundo parcial de ciclos Juan Moreno y Karol Rodriguez
 ---
 
 ## Diagrama de Clases
+![ClassDiagram](DOSW-ParcialT2/src/main/resources/docs/uml/ClassDiagram.png)
+
+---
